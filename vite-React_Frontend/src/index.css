@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+body {
+    font-family: Poppins;
+    background: url(./assets/mohammad-alizade-XgeZu2jBaVI-unsplash.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
