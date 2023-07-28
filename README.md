@@ -1,6 +1,6 @@
 # Stack Application: React.js Frontend with Spring Boot Backend and MySQL Database
 - React.js for the frontend
-![Project Image](project_image.png)
+![Project Image](Forms-ReactJS-SpringBoot/vite-React_Frontend/public/Frontend-Axios.png)
 - Axios API
 ![Project Image](project_image.png)
 - Spring Boot for the backend
