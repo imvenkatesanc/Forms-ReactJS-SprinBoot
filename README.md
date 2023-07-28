@@ -33,5 +33,19 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository to your local machine.
 
-```bash
-git clone <repository_url>
+- git clone: (https://github.com/imvenkatesanc/Forms-ReactJS-SpringBoot.git)
+
+### Frontend
+
+- cd vite-React_Frontend
+- npm install
+- npm run dev (Because It is React Vite App)
+
+### Backend
+
+- Open IntelliJ Idea (Ultimate/Community Edition)
+- Choose open option like (forms-SpringBoot_Backend/forms)
+- Now! Your'e In project root directory forms
+- Simply start the SpringBoot Apllication
+
+- Congratulations! Your'e setup the Localhost server with RESTFULL API.
